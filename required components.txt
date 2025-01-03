@@ -1,0 +1,6 @@
+1. Arduino board 
+2. Ultrasonic sensor (HC-SR04)
+3. LEDs 
+4. Buzzer 
+5. 16x2 LCD 
+6. Breadboard and jumper wire
